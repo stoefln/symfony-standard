@@ -55,11 +55,11 @@ install_git symfony http://github.com/symfony/symfony.git v$VERSION
 
 # Doctrine ORM
 cd $VENDOR
-install_git doctrine http://github.com/doctrine/doctrine2.git 2.0.4
+install_git doctrine http://github.com/doctrine/doctrine2.git 2.0.5
 
 # Doctrine DBAL
 cd $VENDOR
-install_git doctrine-dbal http://github.com/doctrine/dbal.git 2.0.4
+install_git doctrine-dbal http://github.com/doctrine/dbal.git 2.0.5
 
 # Doctrine Common
 cd $VENDOR
